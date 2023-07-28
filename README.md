@@ -45,3 +45,6 @@ With two commands you can compile a ZKP, generate a proof, deploy a verifier, an
 SONIA
 soniabeniwal714@gmail.com
 
+##Video Walkthrough
+https://www.loom.com/share/42ec2a38b3174e74ab927e5460aac506
+
